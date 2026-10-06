@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Alawi%20Zulfikar&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Vibe%20Coder%20%E2%9A%A1%20Building%20the%20best%20GitHub%20repo&descSize=18&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=240&section=header&text=Alawi%20Zulfikar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Vibe%20Coder%20%E2%9A%A1%20Builder%20%E2%9A%A1%20Always%20Learning&descSize=18&descAlignY=65" width="100%" alt="header" />
 
 <a href="https://github.com/M-alawi-zulfikar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Alawi+%F0%9F%91%8B;I'm+a+Vibe+Coder+%E2%9A%A1;Building+the+best+GitHub+repo+%F0%9F%9A%80;Learning+something+new+every+day+%F0%9F%92%A1;Every+great+project+starts+with+one+commit+%E2%9C%A8" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Alawi+%F0%9F%91%8B;Vibe+coder+%E2%9A%A1+ideas+%2B+AI+%3D+projects;Building+the+best+GitHub+repo+%F0%9F%9A%80;One+commit+at+a+time+%E2%9C%A8" alt="Typing animation" />
 </a>
 
 <br/>
@@ -18,29 +18,41 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 🎯 **Goal:** make the best GitHub repo out there
-- 🎶 **Style:** vibe coder, I build with ideas, creativity, and AI
-- 🌱 **Now:** learning, experimenting, and shipping little by little
-- 💬 **Ask me about:** my projects, vibe coding, and cool ideas
+| | |
+|---|---|
+| 🎯 **Mission** | Make the best GitHub repo out there |
+| 🎶 **Style** | Vibe coder: ideas, creativity, and AI |
+| 🌱 **Focus now** | Mini games & simple web projects |
+| 💬 **Ask me about** | Vibe coding, project ideas, getting started |
 
 ---
 
-## 🛠️ What I Use
+## 🔥 Currently
+
+- 🎮 Planning my first mini game
+- 📚 Learning how to build and ship projects
+- ✨ Making my GitHub look awesome
+
+---
+
+## 🛠️ Tools I Use & Explore
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Assisted_Coding-6366F1?style=for-the-badge&logo=anthropic&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,html,css,js,python,md&theme=dark" alt="skills" />
+
+<br/><br/>
+
+![AI Assisted Coding](https://img.shields.io/badge/AI_Assisted_Coding-6366F1?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -53,11 +65,21 @@
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=M-alawi-zulfikar&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10)
+
+</div>
+
+---
+
 ## 🚀 Roadmap
 
 - [x] Create my GitHub profile
 - [x] Make my profile look awesome
-- [ ] Build my first awesome repo
+- [ ] Ship my first mini game
 - [ ] Get my first ⭐
 - [ ] Keep shipping, keep improving
 
@@ -67,6 +89,6 @@
 
 ✨ *Every great project starts with a single commit.* ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
